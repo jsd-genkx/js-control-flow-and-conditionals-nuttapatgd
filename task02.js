@@ -5,3 +5,4 @@
 
 const userInput = "42";
 // Try changing to "hello", 10, null, NaN
+console.log(typeof userInput);
